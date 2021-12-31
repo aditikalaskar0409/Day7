@@ -1,1 +1,3 @@
-# Day7
+#Gambling
+Simulation
+Problem
